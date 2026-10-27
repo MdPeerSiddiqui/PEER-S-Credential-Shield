@@ -1,0 +1,8 @@
+# PEER'S Credential Shield - Python Dependencies
+# Day 07: Password Attacks, Credential Stuffing & Rate Limiting (Sqrock IT Solution)
+
+flask>=2.3.0
+requests>=2.28.0
+colorama>=0.4.6
+reportlab>=4.0.0
+pillow>=10.0.0
